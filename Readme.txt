@@ -6,3 +6,5 @@ Update for file1.txt vs Readme.txtFixing Bug 1234
  Noch ein Fix für branch bug1234
  
 Feature2 change
+Feature2 changes
+neuen Branch für stash
