@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding more code for branch feature 3 v1.0
+=======
+fix1
+>>>>>>> 3308ac0... Added fix2
